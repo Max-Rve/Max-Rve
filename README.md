@@ -4,10 +4,10 @@ Welcome on my github profile, here you can find all my academic and personnal pr
 
 ### Tools and languages 🧰
 
-[<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:12px;"/>]
-[<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:12px;"/>]
-[<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:12px;"/>]
-[<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:12px;"/>]
+[<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:20px;"/>]
+[<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;"/>]
+[<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;"/>]
+[<img align="left" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:20px;"/>]
 
 ### Stats 📖
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Max-Rve&show_icons=true)
