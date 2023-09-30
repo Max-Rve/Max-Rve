@@ -14,5 +14,5 @@ Welcome on my github profile, here you can find all my academic and personnal pr
 
 
 ### Connect with me 📱
-[![img_contact](.\img\globe-light.svg)](www.linkedin.com/in/riviere-maxime#gh-light-mode-only)
-[![img_contact](.\img\globe-light.svg)](www.linkedin.com/in/riviere-maxime#gh-dark-mode-only)
+[![img_contact]([https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg])](www.linkedin.com/in/riviere-maxime)
+
