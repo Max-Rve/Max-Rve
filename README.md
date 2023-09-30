@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ### Connect with me:
+  [![img_contact](.\img\globe-light.svg)](www.linkedin.com/in/riviere-maxime#gh-light-mode-only)
+  [![img_contact](.\img\globe-light.svg)](www.linkedin.com/in/riviere-maxime#gh-dark-mode-only)
