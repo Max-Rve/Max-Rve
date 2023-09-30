@@ -5,7 +5,6 @@ Welcome on my github profile, here you can find all my academic and personnal pr
 ### Tools and languages 
 
 [<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:11px;"/>]
-
 [<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:11px;"/>]
 
 ### Stats
