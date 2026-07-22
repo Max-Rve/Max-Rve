@@ -1,12 +1,12 @@
-<h1 align="left">👋 Maxime RIVIERE</h1>
+<h1 align="left">Maxime RIVIERE</h1>
 
 <h3 align="left">
-AI Engineer • Entrepreneur • Building intelligent systems
+AI Student • Building things with AI and data
 </h3>
 
 ---
 
-I'm a French engineering student passionate about Artificial Intelligence, Data Engineering and building production-ready software.
+I'm a French engineering student passionate about Artificial Intelligence & Data Engineering. 
 
 Currently pursuing a **double engineering degree** between **École Navale** and **IPSA Paris**, while building **PaceMe**, a startup connecting runners with pacers.
 
@@ -17,98 +17,11 @@ Currently pursuing a **double engineering degree** between **École Navale** and
     <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge" />
 </p>
 
----
-
-# 🚀 Currently Building
-
-- 🏃 **PaceMe** — AI-powered marketplace for runners & pacers
-- 🤖 Retrieval-Augmented AI assistants
-- 🌍 Geospatial & maritime data pipelines
-- 🛰️ AI systems for defense & navigation
-
----
-
 # ⚙️ Daily Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nestjs,nodejs,postgres,git,docker,linux,vscode" />
 </p>
-
----
-
-# 🧠 AI Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-- Hugging Face Transformers
-- LangChain
-- LangGraph
-- RAG
-- Vector Databases
-- Prisma
-- Supabase
-
----
-
-# 📌 Featured Projects
-
-### 🚀 PaceMe
-
-Marketplace connecting runners with experienced pacers.
-
-**Stack**
-
-Next.js • NestJS • Prisma • PostgreSQL • Stripe • Vercel
-
----
-
-### 🤖 Maritime RAG Assistant
-
-Conversational assistant over maritime operational documentation.
-
-**Topics**
-
-- LLM
-- RAG
-- Semantic Search
-- Knowledge Graph
-
----
-
-### 🛰️ AIS Intelligence
-
-Analysis of maritime traffic in the Strait of Gibraltar.
-
-Topics:
-
-- Python
-- Pandas
-- GeoPandas
-- Machine Learning
-- GIS
-
----
-
-# 🌱 Currently Learning
-
-- Efficient LLM inference
-- CUDA
-- AI Agents
-- Knowledge Graphs
-- Distributed AI Systems
-
----
-
-# 💬 Ask me about
-
-- Artificial Intelligence
-- LLMs
-- Retrieval-Augmented Generation
-- Geospatial AI
-- Data Engineering
-- Entrepreneurship
 
 ---
 
